@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+从09年毕业，花费一年时间去考研，而今工作已经有9年了。可是自己从来没有对自己的所学，所做进行过系统的总结，每次都是Google解决问题，然后就抛到九霄云外了。。。
 
-You can use the [editor on GitHub](https://github.com/junboyuan/junboyuan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+今天在公司偶然间看到一篇文档scalability.pdf，里面记录了作者每天学习分布式的笔记，看了很受启发，忽然见觉得我竟然没有想到把自己学过的、做过的记录下来。同时因为在工作上的不顺心，让我觉得自己真的是一只井底之蛙，每天还在公司觉得自己技术还行。。。。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+作为一名计算机软件从事人员，每天用着各种各样的软件，如今的世界，如果没有计算机构建的这一切，那么我们人类的世界将会无趣很多。
 
-### Markdown
+同时能深深的感受到这个世界变化的速度，感受到全世界软件工程师在每个日日夜夜里面呕心沥血的构建这个软件的世界,每当在身边吐槽这个软件怎么怎么垃圾，难用的时候，都感到一种蛋蛋的羞耻，同时也愤愤不平，或许不是软件开发人员的错，而是那该死的管理、该死的进度把！
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/junboyuan/junboyuan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+一直以来就有写点什么东西的想法，不但是对自己思路的整理，同时也是对自己能力的打磨，可是各种原因一直没有动手开始，今天终于迈出了第一步。。。这真得感谢我的老婆，将电脑从卧室搬到了客厅，让我不在每次一坐在电脑前就想趟床上；也让我不再每次再客厅就想打开电视看一看。。。 同时，也对公司一番吐槽吧，让我感受到了作为技术人员的悲哀、羞辱！
