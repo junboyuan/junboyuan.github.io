@@ -1,5 +1,11 @@
 ---
 layout: default
-title: Juboyuan
+title: Junboyuan
 ---
-<p>Hello world!</p>
+<h1>Hello LiLan</h1>
+<p>My post list:</p>
+<ul>
+    {% for post in site.posts %}
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
