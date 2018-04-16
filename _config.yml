@@ -1,1 +1,30 @@
 encoding: utf-8
+
+permalink: /:categories/:year/:month/:day/:title
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+highlighter: pygments
+
+title : Junboyuan
+tagline: Site Tagline
+author :
+  name : Junboyuan
+  email : 48952932*@qq.com
+  github : Junboyuan
+
+production_url : http://junboyuan.github.io
+
+gems: ["jekyll-sitemap"]
+
+JB :
+  version : 0.3.0
+  BASE_PATH : false
+  ASSET_PATH : false
+  # These paths are to the main pages Jekyll-Bootstrap ships with.
+  # Some JB helpers refer to these paths; change them here if needed.
+  #
+  archive_path: /archive.html
+  categories_path : /categories.html
+  tags_path : /tags.html
+  atom_path : /atom.xml
+  rss_path : /rss.xml
