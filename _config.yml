@@ -2,14 +2,14 @@ encoding: utf-8
 
 permalink: /:categories/:year/:month/:day/:title
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md",".idea"]
 highlighter: pygments
 
 title : Junboyuan
 tagline: Site Tagline
 author :
   name : Junboyuan
-  email : 48952932*@qq.com
+  email : 489529329@qq.com
   github : Junboyuan
 
 production_url : http://junboyuan.github.io
