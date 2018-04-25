@@ -1,5 +1,5 @@
 ---
-title: Sybase基础
+title: 到底怎么编码？
 layout: post
 category : study
 tagline: "Supporting tagline"
@@ -10,16 +10,10 @@ tags : [study]
  * [切换背景](#1)
   
 ### 切换背景
-   公司有老产品使用的是Sybase数据库，当平台切换时，新产品也要支持；又不得不开始吐槽项目的代码真烂，SQL到处都是，改起来很痛苦。
    
-   切换基于理由：
-   * 老产品有使用，需要支持升级
-   * 商用软件中性价比高
 
 ### 从创表开始说起
-   * Sybase表语法是大小写敏感的；
-    
-   *  
+ 
     
 
 #### 与Txt或者word比有什么优势？
