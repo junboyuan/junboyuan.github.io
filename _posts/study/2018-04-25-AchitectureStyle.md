@@ -58,6 +58,7 @@ tags : [study]
  
 #### 参考资料
    感谢互联网，感谢开源，感谢原创作者
+   * [分层架构](http://www.atove.com/Article/Details/F8689447165D68B0C60600AAF049F5DB#TMd_AutoId_0_A)
  
  
  
