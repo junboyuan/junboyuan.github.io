@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+        <title>Junboyuan</title>
+        <description>Junboyuan - Junboyuan</description>
+        <link>http://junboyuan.github.io</link>
+        <atom:link href="http://junboyuan.github.io/rss.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Thu, 19 Apr 2018 21:16:26 +0800</lastBuildDate>
+        <pubDate>Thu, 19 Apr 2018 21:16:26 +0800</pubDate>
+        <ttl>60</ttl>
+
+
+        <item>
+                <title>4月19日日志</title>
+                <description>&lt;h3 id=&quot;日志&quot;&gt;日志&lt;/h3&gt;
+&lt;p&gt;早上处理了下公司的事，感觉工作压力还是很大的，每个人都充充忙茫的，没有时间学习，没有时间去思考，我也这么一天天的度过的。
+   下午去医院拔牙，在华西口腔，与上次比真心觉得服务好多了&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;不用去各种排队，人累得半死&lt;/li&gt;
+  &lt;li&gt;打麻药比在龙华医院体验好多了，在龙华医院的麻药感觉整个脑袋都是麻的，不知道会补会变更傻&lt;/li&gt;
+  &lt;li&gt;拔牙过程感觉比拔第一颗温柔多了，原来简直就是简单粗暴&lt;/li&gt;
+  &lt;li&gt;最后给的药就2颗，止疼药，都不用消炎的，原来一堆药&lt;/li&gt;
+  &lt;li&gt;最后的价格其实差不多，体验却好很多&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;综上,我们的服务行业还有很大的改进空间哦&lt;/p&gt;
+
+&lt;h3 id=&quot;学习进度&quot;&gt;学习进度&lt;/h3&gt;
+&lt;p&gt;今天就自己总结下Sybase切换遇到的问题吧&lt;/p&gt;
+</description>
+                <link>http://junboyuan.github.io/theory/2018/04/19/log</link>
+                <guid>http://junboyuan.github.io/theory/2018/04/19/log</guid>
+                <pubDate>Thu, 19 Apr 2018 00:00:00 +0800</pubDate>
+        </item>
+
+        <item>
+                <title>Sybase切换</title>
+                <description>&lt;h3 id=&quot;目录&quot;&gt;目录&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#1&quot;&gt;切换背景&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;切换背景&quot;&gt;切换背景&lt;/h3&gt;
+&lt;p&gt;公司有老产品使用的是Sybase数据库，当平台切换时，新产品也要支持；又不得不开始吐槽项目的代码真烂，SQL到处都是，改起来很痛苦。&lt;/p&gt;
+
+&lt;p&gt;切换基于理由：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;老产品有使用，需要支持升级&lt;/li&gt;
+  &lt;li&gt;商用软件中性价比高&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;从创表开始说起&quot;&gt;从创表开始说起&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sybase表语法是大小写敏感的；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;与txt或者word比有什么优势&quot;&gt;与Txt或者word比有什么优势？&lt;/h4&gt;
+
+&lt;h4 id=&quot;markdown语法&quot;&gt;Markdown语法&lt;/h4&gt;
+
+&lt;h3 id=&quot;感悟&quot;&gt;感悟&lt;/h3&gt;
+
+&lt;h4 id=&quot;参考资料&quot;&gt;参考资料&lt;/h4&gt;
+&lt;p&gt;感谢互联网，感谢开源，感谢原创作者&lt;/p&gt;
+
+</description>
+                <link>http://junboyuan.github.io/study/2018/04/19/sybase</link>
+                <guid>http://junboyuan.github.io/study/2018/04/19/sybase</guid>
+                <pubDate>Thu, 19 Apr 2018 00:00:00 +0800</pubDate>
+        </item>
+
+        <item>
+                <title>4月18日日志</title>
+                <description>&lt;h2 id=&quot;工作日志&quot;&gt;工作日志&lt;/h2&gt;
+&lt;p&gt;今天主要在定位问题，还莫名奇妙的发了火，原因是感觉现在设置的一些工作职位，让一些新员工来做，完全起不到效果，然后压力问题全部放到自己身上，真心
+   觉得好累。&lt;/p&gt;
+
+&lt;h2 id=&quot;学习进度&quot;&gt;学习进度&lt;/h2&gt;
+&lt;p&gt;今天学习Markdown语法，发下自己真的很low，这个工具以前都不知道。在笼子里待太久了，希望自己还能赶上时代的步伐&lt;/p&gt;
+</description>
+                <link>http://junboyuan.github.io/theory/2018/04/18/log</link>
+                <guid>http://junboyuan.github.io/theory/2018/04/18/log</guid>
+                <pubDate>Wed, 18 Apr 2018 00:00:00 +0800</pubDate>
+        </item>
+
+        <item>
+                <title>Markdown学习</title>
+                <description>&lt;h3 id=&quot;为什么要学习&quot;&gt;为什么要学习？&lt;/h3&gt;
+&lt;p&gt;写HTML感觉太累，因为要敲前后的符号。突然发下用markdown写起来很简洁，所以就一定要学。
+ 学习起来很简单，不用太费力。&lt;/p&gt;
+
+&lt;h3 id=&quot;markdown是what&quot;&gt;Markdown是what?&lt;/h3&gt;
+&lt;p&gt;引用[维基百科markdown][1]上的说明，我们来看看它到底有什么好？Markdown是一种轻量级标记语言，创始人为John Gruber。
+它允许人们『使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML或HTML文档』站在技术外行的角度简单理解，
+就是以最少的输入代价，呈现出结构化且富于表现力的文档。
+写着舒心，看着顺心。我根据自己的体验总结了用该语言写作的几个好处：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;结构写作：通过格式标记有助于理清思路&lt;/li&gt;
+  &lt;li&gt;语法简单：简单的几个符号，试一次就可以记住&lt;/li&gt;
+  &lt;li&gt;格式优雅：呈现出来的文字排版格式简洁好看&lt;/li&gt;
+  &lt;li&gt;引用方便：插入超链接很方便，再也不担心找不到出处&lt;/li&gt;
+  &lt;li&gt;写作专注：写作时关注内容即可，可开启过瘾的打字机声音&lt;/li&gt;
+  &lt;li&gt;容易分享：可导出HTML和PDF文件，随处都可打开&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;与txt或者word比有什么优势&quot;&gt;与Txt或者word比有什么优势？&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Txt没有格式，每次写的时候，格式很乱,不美观，没有重点&lt;/li&gt;
+  &lt;li&gt;Word有格式，但是太重：格式难调，对我这种直男癌来说太麻烦了
+ 而用Markdown来写东西，会很简洁，同时有一定的格式，还可以导出不同格式的文档，这真是太TMD美妙了
+。
+    &lt;blockquote&gt;
+      &lt;p&gt;人们常说，有什么样的思路，就会写出什么样的东西；反过来，写作的呈现结果其实也是对写作思路的反馈。
+学习，需要的是反馈&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;如果写出的内容是清晰的结构化的，那么思路也会愈发清晰；&lt;/li&gt;
+  &lt;li&gt;如果写出的内容是线性的非结构化的，那么思路很容易陷入某个细节中。
+ 还记得思维导图吗？如果能够把脑海中的很多思绪用思维导图的方式梳理和串联起来，那么我们会发现思路在输出的过程中一点一点变清晰的。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;markdown语法&quot;&gt;Markdown语法&lt;/h4&gt;
+&lt;p&gt;常用的几个语法：&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;大标题小标题&lt;/strong&gt;：几个#号几级标题。如一个井号是一级标题，四个井号是四级标题。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;加粗和斜体&lt;/strong&gt;：几对*号斜粗体。一对星号是斜体，两对星号是加粗。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;引用别人的话&lt;/strong&gt;：一个&amp;gt;号变引用。即可呈现出灰色底色引用的效果。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;引用链接&lt;/strong&gt;：方括号里超链接。[需要引用的话][标识码]然后把标识码对应的链接附在文后：[标识码]：http://… 或者[需要引用的话]后面紧跟括号，括号里是对应的链接。&lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;插入表格&lt;/strong&gt;：&lt;/td&gt;
+          &lt;td&gt;号表示分割线。表格从此想怎么画怎么画。&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;缩进黑点对齐&lt;/strong&gt;：一个*号点缩进。呈现黑点引导的对齐效果。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;缩进数字对齐&lt;/strong&gt;：数字圆点数缩进。呈现数字引导的对齐效果。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;插入高亮代码&lt;/strong&gt;：三个`号插代码。插入一段高亮代码。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;插入分隔线&lt;/strong&gt;：三个*号分隔线。分隔线就是这么简单。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;感悟&quot;&gt;感悟&lt;/h3&gt;
+&lt;p&gt;现在才看到有这么强大的文件处理格式，真的很遗憾。
+  以前老是为写点东西格式伤脑筋，但是其实外面很多地方已经有了解决方案，但是自己的视野太宅了。&lt;/p&gt;
+
+&lt;h4 id=&quot;参考资料&quot;&gt;参考资料&lt;/h4&gt;
+&lt;p&gt;感谢互联网，感谢开源，感谢原创作者&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.zhihu.com/question/20409634&quot;&gt;怎样引导新手使用 Markdown？&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.appinn.com/markdown/#p&quot;&gt;Markdown 语法说明&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jianshu.com/p/b03a8d7b1719&quot;&gt;Markdown 语法整理大集合2017&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+                <link>http://junboyuan.github.io/study/2018/04/18/markdown</link>
+                <guid>http://junboyuan.github.io/study/2018/04/18/markdown</guid>
+                <pubDate>Wed, 18 Apr 2018 00:00:00 +0800</pubDate>
+        </item>
+
+        <item>
+                <title>4月17日日志</title>
+                <description>&lt;h2 id=&quot;工作日志&quot;&gt;工作日志&lt;/h2&gt;
+&lt;p&gt;今天晚上本来是要讲代码，领导以来就直接bababa，讲架构设计去了。。。。
+ 一个项目的代码在领导的眼里到底有怎么样的价值呢？&lt;/p&gt;
+
+&lt;h2 id=&quot;学习进度&quot;&gt;学习进度&lt;/h2&gt;
+&lt;p&gt;花了好久，找到了一个比较简单的模板将博客的基本样式搭建起来了，虽然很low，但是成就感还是有的。努力加油中。。。&lt;/p&gt;
+</description>
+                <link>http://junboyuan.github.io/theory/2018/04/17/thingk</link>
+                <guid>http://junboyuan.github.io/theory/2018/04/17/thingk</guid>
+                <pubDate>Tue, 17 Apr 2018 00:00:00 +0800</pubDate>
+        </item>
+
+        <item>
+                <title>计算机之我见</title>
+                <description>
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;h3 id=&quot;什么是计算机&quot;&gt;什么是计算机?&lt;/h3&gt;
+
+</description>
+                <link>http://junboyuan.github.io/theory/2018/04/17/computing</link>
+                <guid>http://junboyuan.github.io/theory/2018/04/17/computing</guid>
+                <pubDate>Tue, 17 Apr 2018 00:00:00 +0800</pubDate>
+        </item>
+
+        <item>
+                <title>献给而立之年的自己</title>
+                <description>
+&lt;h3 id=&quot;历史&quot;&gt;历史&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;从09年毕业，花费一年时间去考研，而今工作已经有9年了。可是自己从来没有对自己的所学，
+所做进行过系统的总结，每次都是Google解决问题，然后就抛到九霄云外了。这样下来几年，感觉自己很空，真心觉得自己没有什么实质性进步。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;自豪&quot;&gt;自豪&lt;/h3&gt;
+&lt;p&gt;作为一名计算机软件从事人员，每天用着各种各样的软件，无时无刻不在使用这些东西，如果没有计算机构建的这一切，那么我们人类的世界将会无趣很多。&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;同时能深深的感受到这个世界变化的速度，感受到全世界软件工程师在每个日日夜夜里面呕心沥血的构建这个软件的世界,每当在身边吐槽这个软件怎么怎么垃圾，难用的时候，都感到一种蛋蛋的羞耻，同时也愤愤不平，或许不是软件开发人员的错，而是那该死的管理、该死的进度把！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;落后&quot;&gt;落后&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;今天在公司偶然间看到一篇文档scalability.pdf，里面记录了作者每天学习分布式的笔记，看了很受启发，忽然见觉得我竟然没有想到把自己学过的、做过的记录下来。
+  同时因为在工作上的不顺心，让我觉得自己真的是一只井底之蛙，每天还在公司觉得自己技术还行。。。。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;现实&quot;&gt;现实&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;对公司一番吐槽吧，真心感受到了作为一名技术人员的悲哀和羞辱。其实每个程序员每天面对自己写的程序，就像自己的小孩，虽然很丑，但是真心觉得喜欢。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;决心&quot;&gt;决心&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;一直以来就有写点什么东西的想法，不但是对自己思路的整理，同时也是对自己能力的打磨，可是各种原因一直没有动手开始，今天终于迈出了第一步。。。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;致谢&quot;&gt;致谢&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;这真得感谢我的老婆，将电脑从卧室搬到了客厅，让我不在每次一坐在电脑前就想趟床上；也让我不再每次再客厅就想打开电视看一看。。。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</description>
+                <link>http://junboyuan.github.io/theory/2018/04/15/firt-Blog</link>
+                <guid>http://junboyuan.github.io/theory/2018/04/15/firt-Blog</guid>
+                <pubDate>Sun, 15 Apr 2018 00:00:00 +0800</pubDate>
+        </item>
+
+
+</channel>
+</rss>
